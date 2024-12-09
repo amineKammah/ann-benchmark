@@ -1,0 +1,7 @@
+numpy
+faiss-cpu==1.9.0
+scikit-learn
+lancedb==0.16.0
+lance==0.19.2
+pyarrow
+matplotlib
